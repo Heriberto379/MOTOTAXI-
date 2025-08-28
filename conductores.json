@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Juan",
+    "moto": "Honda",
+    "numero": "1234567890",
+    "foto": "https://via.placeholder.com/80"
+  },
+  {
+    "nombre": "Pedro",
+    "moto": "Yamaha",
+    "numero": "0987654321",
+    "foto": "https://via.placeholder.com/80"
+  }
+]
